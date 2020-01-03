@@ -1,5 +1,5 @@
 # Company-Portfolio-1
-#Home-page
+<h2>#Home-page</h2>
 ![FireShot Capture 015 - Glozzom - ](https://user-images.githubusercontent.com/47064496/71710400-4f29dd00-2e26-11ea-8f2f-071d8f968b70.png)
 #About Us
 ![FireShot Capture 016 - Glozzom - ](https://user-images.githubusercontent.com/47064496/71710471-957f3c00-2e26-11ea-810e-61ca49c3d51e.png)
